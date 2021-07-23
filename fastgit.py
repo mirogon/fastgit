@@ -1,3 +1,4 @@
+# use git push --set-upstream github master first to be able to use push without a remote/branch
 import sys
 import os
 
